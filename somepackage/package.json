@@ -1,0 +1,14 @@
+{
+  "name": "xxjpackage",
+  "version": "0.1.0",
+  "description": "this is my first package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "xxj"
+  ],
+  "author": "xxjglobal",
+  "license": "BSD-2-Clause"
+}
